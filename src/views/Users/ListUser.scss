@@ -1,0 +1,11 @@
+
+.list-user-container {
+    width: 400px;
+    margin: 0 auto;
+    .list-user-content {
+        margin-top: 7px;
+        .child {
+            border: 1px solid gray;
+        }
+    }
+}
